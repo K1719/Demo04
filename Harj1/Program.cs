@@ -10,11 +10,8 @@ namespace PersonApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Which floor of the Dynamo building are you willing to go? (1-5) ");
-            Console.ReadLine();
-            if
-                {
+        
+            }
 
             }
         }
-    }
